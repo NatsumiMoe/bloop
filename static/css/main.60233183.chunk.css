@@ -1,0 +1,2 @@
+body,html{margin:0;width:100%;height:100%;overflow:hidden;font-family:"Wendy One",sans-serif}div,p{box-sizing:border-box}#root{width:100%;height:100%;background-color:#000}.wrapper{position:relative;width:100%;min-height:100%}.blooper{z-index:100;position:absolute}.loading{z-index:50;position:absolute;margin:0;left:50%;top:50%;transform:translate(-50%,-50%);font-size:7em;letter-spacing:.1em;color:#fff;text-align:center;max-width:100%}.loading span{display:inline-block}
+/*# sourceMappingURL=main.60233183.chunk.css.map */
